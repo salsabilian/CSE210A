@@ -1,0 +1,89 @@
+commit 5e925bc93bea1d5449010327eaf8fd60aacef9e9
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 22:33:31 2022 -0800
+
+    added gitlog.txt
+
+commit 51c2ec8035660ae9d47f53166288855986b436eb
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 22:31:59 2022 -0800
+
+    added README and report
+
+commit 8e96f857cd0515c4227356a52c80ab6b89ee72d1
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 22:08:19 2022 -0800
+
+    added tests
+
+commit 97d80e1282670cc43d38e5e42ea77df67c4ee864
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 22:07:43 2022 -0800
+
+    added tests
+
+commit 153985f1912a386cd8cdcf43bd406be19a9e889b
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 18:31:18 2022 -0800
+
+    down to 2 failures, good enough
+
+commit c30b7da0f743d6b76685b099526f9dd391479911
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 18:08:47 2022 -0800
+
+    down to 4 failures but this truly some terrible code
+
+commit 4b4a4dd98350fe770838f43770126284813b8791
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Feb 12 00:00:54 2022 -0800
+
+    down to 5 failures but some truly terrible code is written here
+
+commit 8bf19c19f379ad07104023d242b070a5b35cd937
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Fri Feb 11 23:07:17 2022 -0800
+
+    down to 6 failures
+
+commit 0a8ea5fa37a85533845c0f990b00b05aa25f931f
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Fri Feb 11 20:54:27 2022 -0800
+
+    down to 8 failed tests
+
+commit 3153eee8f4fae8abff7c9df9d18b27ad29d22a29
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Feb 10 22:22:11 2022 -0800
+
+    failing 9 tests now, all medium tests
+
+commit 1f1fc1ea779d6e82bc90189cdceed3846c39a921
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Feb 10 21:50:42 2022 -0800
+
+    down to 10 failed tests, 9 are medium though :(
+
+commit 09a0f8bbb3bd7d805c04b2d539dabe12ae22d429
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Feb 10 01:01:31 2022 -0800
+
+    passing some test failing alot more onward! Seriously this code is bad
+
+commit 6dff392d05f34073981a6f7c68ad66953377d465
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Feb 9 00:28:54 2022 -0800
+
+    added tests and finished assign?
+
+commit af0a207af1aa4cdf990c145d4bea54cb71989bb0
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Tue Feb 8 16:16:26 2022 -0800
+
+     built AST
+
+commit bca48a9030c5ca4154c87058f484c97fcecf0542
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Mon Feb 7 19:34:55 2022 -0800
+
+    add README

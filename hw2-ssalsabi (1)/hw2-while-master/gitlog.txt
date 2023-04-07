@@ -1,0 +1,77 @@
+commit 22d01e360ec89154407643d3e2ea48f4546fcf0c
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Jan 27 23:08:52 2022 -0800
+
+     added gitlog.txt
+
+commit 9bef65e283ff959d3381ca15cac289d679b9d649
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Jan 27 23:07:42 2022 -0800
+
+    added makefile, report, and gitlog
+
+commit 7c2f43d0baed4c25c55a3504eb7688c26ac97b30
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Thu Jan 27 22:20:48 2022 -0800
+
+    added array feature
+
+commit 2919dc59f942d12cc335bd156a5514754f42de69
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Jan 26 23:12:42 2022 -0800
+
+    down to 2 failures
+
+commit 6243769acfac67ebd396858ee3b2e802e5975db2
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Jan 26 20:45:13 2022 -0800
+
+     3 failures
+
+commit 723c34cdefa4161b2f50de2f8382b7ba27cc51f7
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Jan 26 16:15:48 2022 -0800
+
+    down to 4 failures
+
+commit 88a7144486b01aa980fa098c004b5b7c1ae6ef38
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Tue Jan 25 23:25:49 2022 -0800
+
+    down to 6 failures
+
+commit fea4fde8ca4e088c4616a7f481f663e3a5f53e1f
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Tue Jan 25 19:56:30 2022 -0800
+
+     down to 10 failed tests
+
+commit 4c13b0f46e9a33d755d1bf2f21d886ec7448e57a
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Tue Jan 25 19:37:13 2022 -0800
+
+    passing all easy tests, half of mediums, and part of hard
+
+commit cd159addc096da097f8fe8fa65be5ab611d7f070
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sun Jan 23 22:19:23 2022 -0800
+
+    progress I guess?
+
+commit 229b5f93ecad5ae8637cec7e7d6aeb4bae39d44a
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Fri Jan 21 02:07:47 2022 -0800
+
+    worked on while
+
+commit ca5ecc1fbd1d96b474b1d8b132c62dd552259611
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Jan 19 23:14:45 2022 -0800
+
+    set up program environment
+
+commit 08e9ff1dd87a12731316e7a4d3ead01cb74ee03b
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Wed Jan 19 23:06:22 2022 -0800
+
+    add README

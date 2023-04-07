@@ -1,0 +1,47 @@
+commit 59ef0a684e3a6a1104ae18ba55f0b01f2467f21d
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sun Jan 16 23:00:36 2022 -0800
+
+     added report.pdf
+
+commit 1b5302edb8449a9b70eb0d6a8376035965d43849
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Jan 15 23:50:24 2022 -0800
+
+    adjusted readme and other files
+
+commit a52672b652aa9015d393d6e2355622f53af805e3
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Jan 15 21:24:24 2022 -0800
+
+    added README.txt
+
+commit 6f870c89968798bc413d6f10c0b07cbab3471ed1
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Jan 15 20:10:09 2022 -0800
+
+    added tests,test cases, and my 3rd party library for parser
+
+commit 691de24d8f04520b7a72362afcc46137a3546a03
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Sat Jan 15 16:15:46 2022 -0800
+
+    passing all tests
+
+commit 6a19e08981ed34ad708431157ec3ea8d7d7a9abb
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Fri Jan 14 12:22:44 2022 -0800
+
+    switched to python
+
+commit 414feeaf83f36d9c58d549b884d10d144348b3ec
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Mon Jan 10 21:34:48 2022 -0800
+
+    deleted files I dont need
+
+commit e35580e595e3facaa08d3713c3c107a819fdee62
+Author: Shayan Salsabilian <ssalsabi@ucsc.edu>
+Date:   Mon Jan 10 21:30:38 2022 -0800
+
+    started
